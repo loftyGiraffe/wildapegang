@@ -175,7 +175,7 @@ export default function Home() {
             <div
                 style={{
                     height: "3px",
-                    width: "65%",
+                    width: "45%",
                     backgroundColor: "white",
                     marginTop: "24px",
                     marginBottom: "60px",
