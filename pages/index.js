@@ -79,7 +79,7 @@ export default function Home() {
                         letterSpacing: "6px",
                     }}
                 >
-                   Presale Raffle Winner #642
+                   Presale Raffle Winner #582
                 </div>
             </div>
             <div
@@ -118,7 +118,7 @@ export default function Home() {
                     marginBottom: "30px",
                 }}
             >
-                Total Minted: 642 / 777
+                Total Minted: 742 / 777
             </div>
 
             <div
@@ -143,7 +143,7 @@ export default function Home() {
                         borderRadius: "6px",
                     }}
                     min="1"
-                    max="5"
+                    max="10"
                     type="number"
                 />
                 <div style={{ color: "white", fontSize: "30px" }}>Wild Ape(s)</div>
